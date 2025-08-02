@@ -1,1 +1,1 @@
-# gnn-blockchain-fraud-detection
+#e-mail phishing detection
